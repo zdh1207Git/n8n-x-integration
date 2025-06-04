@@ -1,4 +1,4 @@
 ## Privacy Policy  
 - **Data Collected**: Public tweets and user handles via X API  
 - **Storage Period**: Maximum 30 days  
-- **Contact**: your@email.com  
+- **Contact**: zdh1207@gmail.com
